@@ -1,2 +1,1 @@
-# Pizza
-For Practice
+# pizza
